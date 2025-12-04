@@ -11,7 +11,7 @@ export default function TopHeader() {
                         height={24}
                         alt="Logo"
                     />
-                    <input className="bg-white border-0 rounded-[5px] pl-[12px] text-[15px] font-bold w-[460px] h-[36px]" type="text" placeholder="Поиск..." />
+                    <input className="bg-white border-0 rounded-[5px] pl-[12px] text-[15px] font-bold w-[520px] h-[36px]" type="text" placeholder="Поиск..." />
                 </div>
                 <nav>
                     <ul className="flex items-center gap-[32px] text-[14px] text-white font-bold ">

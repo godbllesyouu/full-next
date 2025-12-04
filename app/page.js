@@ -1,3 +1,4 @@
+import Footer from "@/components/Footer/Footer";
 import MainHeader from "@/components/Header/MainHeader";
 import TopHeader from "@/components/Header/TopHeader";
 import AboutStore from "@/components/Sections/AboutStore";
@@ -23,6 +24,7 @@ export default function Home() {
       <UsefulArticles />
       <AboutStore />
       <StoreContact />
+      <Footer />
     </div>
   );
 }
