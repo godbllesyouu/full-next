@@ -133,7 +133,7 @@ export default function PopulaProducts2() {
                     <div className="w-[270px] h-[400px] bg-white px-[8px] py-[8px] flex flex-col gap-[31px] rounded-[5px]">
                         <div className="flex flex-col gap-[16px]">
                             <Image
-                                src={"/Images/Image22.png"}
+                                src={"/Images/image22.png"}
                                 width={254}
                                 height={130}
                                 alt="ker"
